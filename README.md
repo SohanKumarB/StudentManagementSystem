@@ -163,3 +163,4 @@ Since the frontend is built using standard HTML5, CSS3, and JavaScript with CDN 
 
 ## 📄 License
 This project is licensed under the MIT License.
+"# StudentManagementSystem" 
